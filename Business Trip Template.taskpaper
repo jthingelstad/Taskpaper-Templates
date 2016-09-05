@@ -1,0 +1,17 @@
+- Trip to «Destination» @parallel(false)
+
+	- Arrange travel logistics for «Destination» trip @due(«Departer date») @autocomplete(true)
+
+		- Book flight to «Destination» @due(«Departer date» - 7d)
+
+		- Book hotel for «Destination» @due(«Departer date» - 7d)
+
+	- Schedule meetings for «Destination» trip @due(«Departer date» - 5d)
+
+	- Determine items for global trips @autocomplete(true)
+
+		- Setup global plan for AT&T @due(«Departer date» - 3d)
+
+		- Pack power adapters
+
+	- Followup activities for «Destination» trip @defer(«Return date»)

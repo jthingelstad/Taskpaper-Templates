@@ -1,0 +1,42 @@
+
+- Weekly Review @parallel(false) @autodone(true) @estimate(2h) @context(Computer : OmniFocus) @defer(2016-08-07 18:00) @repeat-method(start-after-completion) @repeat-rule(FREQ=WEEKLY)
+
+	- Get Clear @parallel(false) @context(Computer : OmniFocus) @autodone(true)
+
+		- Collect Loose Papers and Materials @context(Computer : OmniFocus)
+			Gather all accumulated business cards, receipts, and miscellaneous paper-based materials into your in-tray.
+
+		- Get “IN” to Zero @context(Computer : OmniFocus)
+			Process completely all outstanding paper materials, journal and meeting notes, voicemails, dictation, and emails.
+
+		- Empty Your Head @context(Computer : OmniFocus)
+			Put in writing and process any uncaptured new projects, action items, waiting for’s, someday maybe’s, etc.
+
+	- Get Current @parallel(false) @context(Computer : OmniFocus) @autodone(true)
+
+		- Review Action Lists @context(Computer : OmniFocus)
+			Mark off completed actions. Review for reminders of further action steps to record.
+
+		- Review Previous Calendar Data @context(Computer : OmniFocus)
+			Review past calendar in detail for remaining action items, reference data, etc., and transfer into the active system.
+
+		- Review Upcoming Calendar @context(Computer : OmniFocus)
+			Review upcoming calendar events–long and short term. Capture actions triggered.
+
+		- Review Waiting For List @context(Computer : OmniFocus)
+			Record appropriate actions for any needed follow-up. Check off received ones.
+
+		- Review Project (and Larger Outcome) Lists @context(Computer : OmniFocus)
+			Evaluate status of projects, goals, and outcomes, one by one, ensuring at least one current action item on each. Browse through project plans, support material, and any other work-in-progress material to trigger new actions, completions, waiting for’s, etc.
+
+		- Review Any Relevant Checklists @context(Computer : OmniFocus)
+			Use as a trigger for any new actions.
+
+	- Get Creative @parallel(false) @context(Computer : OmniFocus) @autodone(true)
+
+		- Review Someday Maybe List @context(Computer : OmniFocus)
+			Review for any projects which may now have become active, and transfer to “Projects.” Delete items no longer of interest.
+
+		- Be Creative and Courageous @context(Computer : OmniFocus)
+			Any new, wonderful, hare-brained, creative, thought-provoking, risk-taking ideas to add into your system???
+
