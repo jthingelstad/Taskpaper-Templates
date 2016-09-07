@@ -1,12 +1,26 @@
 - Christmas «Year»
-	- Christmas card / letter
+	This project created using the Christmas template.
+
+	- Christmas cards letter @autodone(true)
+
+		- Draft Christmas letter @context(Writing)
+
 	- Make Wassail Tea for Christmas Eve
-	- Decorate for Christmas
-		- Decorate house for Christmas
-		- Decorate cabin for Christmas
-	- Get presents for Christmas
-		- Present for Tammy
-		- Present for Tammy from Tyler
-		- Present for Tammy from Mazie
-		- Present for Mazie
-		- Present for Tyler
+
+	- Decorate for Christmas @autodone(true)
+
+		- Decorate house for Christmas @context(Home)
+
+		- Decorate cabin for Christmas @context(Cabin)
+
+	- Get presents for Christmas @context(Shopping) @autodone(true)
+
+		- Present for Tammy @context(Shopping)
+
+		- Present for Tammy from Tyler @context(Shopping)
+
+		- Present for Tammy from Mazie @context(Shopping)
+
+		- Present for Mazie @context(Shopping)
+
+		- Present for Tyler @context(Shopping)
