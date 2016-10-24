@@ -1,0 +1,6 @@
+- Celebrate Halloween «Year» @parallel(true) @autodone(false) @context(Home) @defer(10/31/«Year» - 2 weeks)
+	- Decorate house for Halloween @parallel(false) @autodone(false) @context(Home)
+		- Get pumpkins for home to carve for Halloween @parallel(true) @autodone(false) @context(Errands) @defer(10/31/«Year» - 2 weeks)
+	- Decorate cabin for Halloween @parallel(false) @autodone(false) @context(Cabin)
+		- Get pumpkins for cabin to carve for Halloween @parallel(true) @autodone(false) @context(Errands) @defer(10/31/«Year» - 2 weeks)
+	- Get candy to hand out at Halloween @parallel(true) @autodone(false) @context(Errands) @defer(10/31/«Year» - 1 week)
