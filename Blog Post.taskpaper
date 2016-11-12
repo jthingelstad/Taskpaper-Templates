@@ -1,13 +1,13 @@
-- Blog Post «Name» @parallel(false) @autodone(true)
+- Blog Post «Title» @parallel(false) @autodone(true)
 
-	- Write draft post for «Name» @context(Writing)
+	- Write draft post for «Title» @context(Writing)
 
-	- Check grammar of «Name» article using After the Deadline @context(Computer : Web)
+	- Check grammar of «Title» article using After the Deadline @context(Computer : Web)
 		Go to http://www.polishmywriting.com and paste the text into the web page.
 
-	- Share links to «Name» @parallel(true) @autodone(true)
+	- Share links to «Title» @parallel(true) @autodone(true)
 
-		- Share link for «Name» on Twitter
+		- Share link for «Title» on Twitter
 
-		- Share link for «Name» on LinkedIn
+		- Share link for «Title» on LinkedIn
 
