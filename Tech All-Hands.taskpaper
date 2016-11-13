@@ -1,0 +1,3 @@
+- «Month» Tech All-Hands @parallel(true) @autodone(false) @due(«Meeting date» - 1d) @defer(«Meeting date» - 2w)
+	- Determine agneda for «Month» Tech All-Hands @parallel(true) @autodone(false) @context(Office) @due(«Meeting date» - 1w)
+	- Consider any non-tech presenters and determine next actions @parallel(true) @autodone(false) @context(Office)
