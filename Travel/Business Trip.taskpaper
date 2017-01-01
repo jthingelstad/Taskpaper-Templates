@@ -5,6 +5,8 @@
 		- Book flight to «Destination» @due(«Departure date» - 7d)
 
 		- Book hotel for «Destination» @due(«Departure date» - 7d)
+		
+		- Add trip to FlightView
 
 	- Schedule meetings for «Destination» trip @due(«Departure date» - 5d)
 
