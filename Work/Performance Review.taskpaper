@@ -1,8 +1,12 @@
-- «Person» Performance Review @autodone(true)
-  This project created using the Performance Review template.
+- Complete «Person» Performance Review @parallel(true) @autodone(true) @context(Office)
+	This project created using the Performance Review template.
 
-	- Get feedback from peers
-	
-		- Get feedback from «Peers»
-  
-	- Get more stuff
+	- Collect information for «Person» performance review @parallel(true) @autodone(true) @context(Office)
+		- Request feedback from peers of «Person» for review @parallel(true) @autodone(false) @context(Email)
+		- Receive completed self-review from «Person» @parallel(true) @autodone(false) @context(Waiting for)
+	- Write performance review for «Person» @parallel(true) @autodone(false) @context(Writing)
+	- Schedule performance review for «Person» @parallel(true) @autodone(false) @context(Scheduling)
+	- Conduct performance rview for «Person» @parallel(true) @autodone(false) @context(Agendas)
+		Get «Person» signature on printed performance review.
+
+	- Submit signed performance review for «Person» to HR @parallel(true) @autodone(false) @context(Office)
