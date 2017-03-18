@@ -19,6 +19,8 @@
 		- Adjust clocks in basement @parallel(true) @autodone(false) @context(Cabin)
 			- Adjust analog clock in family room @parallel(true) @autodone(false) @context(Cabin)
 			- Adjust analog clock in guest bedroom @parallel(true) @autodone(false) @context(Cabin)
+			- Adjust digital clock on iron filter @parallel(true) @autodone(false) @context(Cabin)
+			- Adjust digital clock on water softener @parallel(true) @autodone(false) @context(Cabin)
 		- Adjust clocks on main floor @parallel(true) @autodone(false) @context(Cabin)
 			- Adjust analog clock by fireplace @parallel(true) @autodone(false) @context(Cabin)
 			- Adjust analog clock by dining table @parallel(true) @autodone(false) @context(Cabin)
