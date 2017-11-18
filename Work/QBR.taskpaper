@@ -1,0 +1,18 @@
+- QBR for «Name» @due(«Meeting date» + 1 week)
+	Let’s have a great Quarterly Business Review!
+
+	- Scheduling «Name» QBR @context(Office) @due(«Meeting date» - 1 month)
+		- Schedule LifeSize meeting @context(Scheduling)
+		- Create and share HipChat room for «Name» QBR @context(Computer)
+			This room will be used for collaborate on QBR preparation and coordination.
+
+	- Determine story and scope for «Name» QBR @context(Office) @due(«Meeting date» - 3 weeks)
+		- Pete, Jamie: Determine rotating meeting owner @context(Agendas)
+	- Planning for «Name» QBR @context(Office) @defer(«Meeting date» - 3 week)
+	- Prepare for «Name» QBR @context(Office) @defer(«Meeting date» - 3 week)
+	- Event Logistics for «Name» QBR @context(Office) @defer(«Meeting date» - 1 week) @due(«Meeting date» - 2 days)
+		- Order food for «Name» QBR, if over lunch @context(Waiting for)
+	- Wrap-up for «Name» QBR @context(Office) @defer(«Meeting date») @due(«Meeting date» + 1 week)
+		- Send survey to «Name» QBR attendees for feedback @context(Email)
+		- Post and share PDFs of materials for «Name» QBR, where possible @context(Computer)
+		- Post and share video of «Name» QBR @context(Computer)

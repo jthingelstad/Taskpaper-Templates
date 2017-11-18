@@ -1,13 +1,16 @@
+---
+{"Title": "Text"}
+---
 - Blog Post «Title» @parallel(false) @autodone(true)
 
-	- Write draft post for «Title» @context(Writing)
+  - Write draft post for «Title» @context(Writing)
 
-	- Check grammar of «Title» article using After the Deadline @context(Computer : Web)
-		Go to http://www.polishmywriting.com and paste the text into the web page.
+  - Check grammar of «Title» article using After the Deadline @context(Computer : Web)
+    Go to http://www.polishmywriting.com and paste the text into the web page.
 
-	- Share links to «Title» @parallel(true) @autodone(true)
+  - Share links to «Title» @parallel(true) @autodone(true)
 
-		- Share link for «Title» on Twitter
+    - Share link for «Title» on Twitter
 
-		- Share link for «Title» on LinkedIn
+    - Share link for «Title» on LinkedIn
 

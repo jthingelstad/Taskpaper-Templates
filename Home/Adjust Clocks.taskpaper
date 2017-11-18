@@ -12,11 +12,23 @@
 			- Adjust clock in master bathroom @context(Home)
 			- Adjust clock in kids bathroom @context(Home)
 			- Adjust Mazie’s alarm clock @context(Home)
+			- Adjust clock on Aquarium light timer @context(Home)
+			  Under Normal Mode, press "HOUR" and "MINIUTE" at the same time. Timer will work in Programming Mode, once time digit blinking on LED screen, now ready to setting time. Keep press "HOUR" to set hour, keep press "MINUTE" to set minute. Time will be confirmed and back to Normal Mode after 5 seconds.
+			  
 			- Adjust Tyler’s clock radio @context(Home)
+			  Capello CR25.
+			  In the POWER OFF MODE, the real time will be shown on the LCD clock.
+
+			  1. Press the TIME button to enter Clock Setting Mode. (Clock time will be flashing)
+			  2. Press HOUR button to set the hour to the desired time. (Press and hold to enter fast setting)
+			  3. Press the MINUTE button to set the minute to the desired time. (Press and hold to enter fast setting)
+			  4. Press the TIME button to confirm the time and begin the clock.
+			  
 		- Adjust other clocks @parallel(true) @autodone(true) @context(Home)
 			- Adjust clock on Canon 5D Mark II @context(Home)
 			- Adjust Mazie’s wristwatch @context(Anywhere)
 			- Adjust Tyler’s wristwatch @context(Anywhere)
+			- Adjust clock in Mini Cooper @context(Home : Garage)
 	- Adjust cabin clocks for daylight savings time @parallel(false) @autodone(true) @context(Cabin) @due(«DST Effective»)
 		- Adjust clocks in basement @parallel(false) @autodone(true) @context(Cabin)
 			- Adjust digital clock on iron filter @context(Cabin)

@@ -1,0 +1,11 @@
+- Recover from power failure @parallel(true) @autodone(true) @context(Home) @flagged 
+  - Reset clock on stove @parallel(true) @autodone(false) @context(Home)
+  - Reset clock on microwave @parallel(true) @autodone(false) @context(Home)
+  - Reset clock in Tyler's room @parallel(true) @autodone(false) @context(Home)
+    Capello CR25.
+    In the POWER OFF MODE, the real time will be shown on the LCD clock.
+
+    1. Press the TIME button to enter Clock Setting Mode. (Clock time will be flashing)
+    2. Press HOUR button to set the hour to the desired time. (Press and hold to enter fast setting)
+    3. Press the MINUTE button to set the minute to the desired time. (Press and hold to enter fast setting)
+    4. Press the TIME button to confirm the time and begin the clock.
