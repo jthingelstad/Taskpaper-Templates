@@ -1,3 +1,7 @@
 - Celebrate Thanksgiving «Year» @parallel(true) @autodone(false) @defer(2016-11-11 22:00)
 	- Send Tammy shopping list for Wassail Tea @parallel(true) @autodone(false) @context(Email)
+	- Buy Turkey for Thanksgiving dinner @parallel(true) @autodone(false) @context(Shopping)
+	- Watch Charlie Brown Thanksgiving special @parallel(true) @autodone(false) @context(Home)
 	- Make Wassail Tea @parallel(true) @autodone(false) @context(Home)
+	- Make Turkey for Thanksgiving dinner @parallel(true) @autodone(false) @context(Home)
+	- Update Thanksgiving project template @parallel(true) @autodone(false) @context(Computer)
