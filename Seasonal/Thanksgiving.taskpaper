@@ -1,4 +1,4 @@
-- Celebrate Thanksgiving «Year» @parallel(true) @autodone(false) @defer(2016-11-11 22:00)
+- Celebrate Thanksgiving «Year» @parallel(true) @autodone(false) @defer(«Year»-11-11 22:00)
 	- Send Tammy shopping list for Wassail Tea @parallel(true) @autodone(false) @context(Email)
 	- Buy Turkey for Thanksgiving dinner @parallel(true) @autodone(false) @context(Shopping)
 	- Watch Charlie Brown Thanksgiving special @parallel(true) @autodone(false) @context(Home)
