@@ -1,0 +1,13 @@
+- Donate to digital non-profits @parallel(true) @autodone(true) @context(Computer)
+	- Donate to EFF @context(Computer)
+		https://supporters.eff.org/donate/
+
+	- Donate to Creative Commons @context(Computer)
+		https://creativecommons.org/donate/
+
+	- Donate to Let’s Encrypt @context(Computer)
+		https://letsencrypt.org/donate/
+
+	- Donate to Internet Archive @context(Computer)
+		https://archive.org/donate
+

@@ -1,0 +1,7 @@
+- Send out Christmas Cards @parallel(false) @autodone(true) @context(Home)
+	- Review Christmas mailing list in Address Book @context(Computer)
+	- Design Christmas card @context(Home)
+	- Order 150 Christmas cards @context(Computer)
+	- Print addresses on envelopes @context(Computer)
+	- Put Christmas cards in envelopes @context(Home)
+	- Mail Christmas cards @context(Errands)

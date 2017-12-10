@@ -1,14 +1,6 @@
 - Christmas «Year» @parallel(true) @autodone(false)
 	This project created using the Christmas template.
 
-	- Send out Christmas letter/card to friends and family @parallel(false) @autodone(true) @context(Home) @due(«Year»-12-25 - 1w)
-		- Draft Christmas card letter @parallel(true) @autodone(false) @context(Writing)
-		- Pick Christmas card design and selected photos @parallel(true) @autodone(false) @context(Waiting for)
-		- Order Christmas cards @parallel(true) @autodone(false) @context(Waiting for)
-		- Review Christmas mailing list in Address Book @parallel(true) @autodone(false) @context(Computer)
-		- Print addresses on envelopes @parallel(true) @autodone(false) @context(Computer)
-		- Stamp and envelope all Christmas cards @parallel(true) @autodone(false) @context(Home)
-		- Mail Christmas cards @parallel(true) @autodone(false) @context(Errands)
 	- Decorate for Christmas at home @parallel(true) @autodone(false) @context(Home) @defer(«Year»-11-25 07:00)
 		- Get Christmas tree for home @parallel(true) @autodone(false) @context(Errands)
 		- Get Christmas wreath for front door @parallel(true) @autodone(false) @context(Home)
@@ -23,10 +15,8 @@
 		- Get gifts for family @parallel(true) @autodone(true) @context(Shopping)
 			- Get Alona a Christmas present for the name draw @parallel(true) @autodone(false) @context(Computer) @defer(«Year»-12-03 07:00)
 			- Presents for Tammy @parallel(true) @autodone(false) @context(Shopping) @defer(«Year»-12-03 07:00)
-				iPhone case
-
-			- Present for Tammy from Tyler (salt shaker) @parallel(true) @autodone(false) @context(Shopping)
-			- Present for Tammy from Mazie (pepper shaker) @parallel(true) @autodone(false) @context(Shopping)
+			- Present for Tammy from Tyler @parallel(true) @autodone(false) @context(Shopping)
+			- Present for Tammy from Mazie @parallel(true) @autodone(false) @context(Shopping)
 			- Present for Mazie @parallel(true) @autodone(false) @context(Shopping)
 			- Present for Tyler @parallel(true) @autodone(false) @context(Shopping)
 		- Wrap Christmas presents @parallel(true) @autodone(false) @context(Shopping)
@@ -36,14 +26,10 @@
 	- Seasonal events @parallel(true) @autodone(false) @context(Scheduling)
 		- New Standards Holiday Show @parallel(true) @autodone(false) @context(Scheduling)
 		- Check for lutefisk dinner at Mt Oliver @parallel(true) @autodone(false) @context(Scheduling)
-			http://www.mtolivet.org/upcoming-events/lutefisk-dinner
-
 	- Make Wassail Tea for Christmas Eve @parallel(true) @autodone(false) @context(Home) @defer(«Year»-12-17 07:00)
 		- Send ingredients for Wassail tea to Tammy @parallel(true) @autodone(false) @context(Email)
 		- Prepare Wassail tea @parallel(true) @autodone(false) @context(Home)
 	- Make Christmas Day dinner @parallel(true) @autodone(false)
-		Usually we grill a beef tenderloin.
-
 	- Put away Christmas decorations at home @parallel(true) @autodone(false) @context(Home) @defer(«Year»-12-31 07:00)
 		- Take decorations off of Christmas tree @parallel(true) @autodone(false)
 		- Take batteries out of any decorations that use them @parallel(true) @autodone(false)
